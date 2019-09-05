@@ -20,3 +20,8 @@ npm install react -g create-react-app
 ```
 npm install
 ```
+
+### 3- Launch the web application:
+```
+npm start
+```
