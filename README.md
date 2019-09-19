@@ -16,12 +16,15 @@ react react-dom react-redux react-transition-group react-router-dom react-loadab
 npm install react -g create-react-app
 ```
 
-### 2- Open a terminal to install the dependencies above:
+### 2- install the dependencies above:
 ```
 npm install
 ```
-
-### 3- Launch the web application:
+### 3- Open a terminal to run:
+```
+ng serve
+```
+### 4- Launch the web application:
 ```
 npm start
 ```
