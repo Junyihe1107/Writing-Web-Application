@@ -1,5 +1,5 @@
 # UGC Sharing Application
-A SPA (single-page application) that can write/read articles and search the keywords of articles using ReactJs, Redux and Node.js based on the json-server.
+A SPA (single-page application) that can write/read articles and search the keywords of articles using ReactJs and ReduxJs.
 
 ## Introduction
 This is a fake news app in order to try ReactJs and ReduxJs's features and get to know how to use Components, Containers, ActionCreators, Reducers, Connect Redux, React-Router, Links, Fetching API from fake REST API based on json-server and style the project with React-Transition.
@@ -20,11 +20,7 @@ npm install react -g create-react-app
 ```
 npm install
 ```
-### 3- Open a terminal to run:
-```
-ng serve
-```
-### 4- Launch the web application:
+### 3- Launch the web application:
 ```
 npm start
 ```
